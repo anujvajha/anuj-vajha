@@ -6,7 +6,6 @@ Aspiring Software Developer
 
 * 🌍  I'm based in Mumbai
 * ✉️  You can contact me at [vajhaanuj2@gmail.com](mailto:vajhaanuj2@gmail.com)
-* 🧠  I'm learning JavaScript, DSA
 * 🤝  I'm open to collaborating on Projects
 
 <a href="https://www.github.com/anujvajha" target="_blank" rel="noreferrer"><img
