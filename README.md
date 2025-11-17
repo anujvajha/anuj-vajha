@@ -1,4 +1,4 @@
-# Hi there, I'm Anuj Vajha 👋
+# Hi there, I'm Anuj 👋
 
 I'm a passionate **Full Stack Software Developer** building clean, responsive, and dynamic web applications.
 
