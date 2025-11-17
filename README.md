@@ -2,7 +2,6 @@
 
 I'm a passionate **Full Stack Software Developer** building clean, responsive, and dynamic web applications.
 
----
 
 ## 🔧 Skills
 
@@ -16,7 +15,6 @@ I'm a passionate **Full Stack Software Developer** building clean, responsive, a
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
 
 ## 🚀 About Me
 
@@ -24,7 +22,6 @@ I'm a passionate **Full Stack Software Developer** building clean, responsive, a
 - Strong problem-solving abilities and a keen eye for clean code.  
 - Enjoy collaborating on open-source projects and contributing to the developer community.
 
----
 
 ## 📫 Connect with Me
 
@@ -32,7 +29,6 @@ I'm a passionate **Full Stack Software Developer** building clean, responsive, a
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anujvajha)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anujvajha@example.com)
 
----
 
 ## 💻 GitHub Stats
 
